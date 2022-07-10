@@ -1,0 +1,17 @@
+Hôte = ftp.cluster010.hosting.ovh.net
+Identifiant = debono
+Mot de passe = Juliette1
+Port = 21
+
+Database
+
+Serveur = debonobdd.mysql.db
+Identifiant = debonoddb
+Mot de passe = Juliette1
+
+Get port on PHPMYADMIN : SHOW VARIABLES WHERE Variable_name = 'port';
+
+OVH Papa
+ID : dl21110-ovh
+Mdp : 2s1Ot8G3
+Code client : 687621110
